@@ -29,7 +29,7 @@ In this repository, you’ll find my first projects using Python, Pandas, SQL, a
  - Looker Studio
 
 
-### Cómo contactarme 
+### Contact me
 - 💼 [LinkedIn](https://www.linkedin.com/in/cristian-ag/)
 - 📲 [Contáctame por WhatsApp](https://wa.me/34649163875)
 - 📧 cristian.agustin.garcia@gmail.com
